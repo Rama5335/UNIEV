@@ -288,61 +288,31 @@ uvicorn main:app --reload
 
 ## Giriş Sayfası
 
-🔴 BURAYA login.png DOSYASINI EKLEYİN
-
-```markdown
 ![Login](screenshots/login.png)
-```
 
 ## Kayıt Sayfası
 
-🔴 BURAYA register.png DOSYASINI EKLEYİN
-
-```markdown
 ![Register](screenshots/register.png)
-```
 
 ## Ana Sayfa
 
-🔴 BURAYA home.png DOSYASINI EKLEYİN
-
-```markdown
 ![Home](screenshots/home.png)
-```
 
 ## İlan Detay Sayfası
 
-🔴 BURAYA listing-detail.png DOSYASINI EKLEYİN
-
-```markdown
 ![Listing](screenshots/listing-detail.png)
-```
 
 ## Ev Arkadaşı Eşleştirme Sistemi
 
-🔴 BURAYA match-system.png DOSYASINI EKLEYİN
-
-```markdown
 ![Match](screenshots/match-system.png)
-```
 
 ## Mesajlaşma Sistemi
 
-🔴 BURAYA messages.png DOSYASINI EKLEYİN
-
-```markdown
 ![Messaging](screenshots/messages.png)
-```
 
 ## Admin Paneli
 
-🔴 BURAYA admin-panel.png DOSYASINI EKLEYİN
-
-```markdown
 ![Admin](screenshots/admin-panel.png)
-```
-
----
 
 # 📈 Proje 3 Kapsamında Yapılan İyileştirmeler
 
