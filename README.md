@@ -400,27 +400,27 @@ YOUTUBE_VIDEO_LINKI_BURAYA
 
 ## Akış Diyagramı
 
-![Akış Diyagramı](docs/Akis%20Diagram.png)
+![Akış Diyagramı](Docs/Akis%20Diagram.png)
 
 ## Authentication Flow Diagram
 
-![Authentication Flow Diagram](docs/Authentication%20Flow%20Diagram.png)
+![Authentication Flow Diagram](Docs/Authentication%20Flow%20Diagram.png)
 
 ## ER Diagram
 
-![ER Diagram](docs/ER%20Diagram.png)
+![ER Diagram](Docs/ER%20Diagram.png)
 
 ## Listing Creation Flow Diagram
 
-![Listing Creation Flow Diagram](docs/Listing%20Creation%20Flow%20Diagram.png)
+![Listing Creation Flow Diagram](Docs/Listing%20Creation%20Flow%20Diagram.png)
 
 ## Match Engine Flow Diagram
 
-![Match Engine Flow Diagram](docs/Match%20Engine%20Flow%20Diagram.png)
+![Match Engine Flow Diagram](Docs/Match%20Engine%20Flow%20Diagram.png)
 
 ## Real-Time Messaging Flow Diagram
 
-![Real-Time Messaging Flow Diagram](docs/Real-Time%20Messaging%20Flow%20Diagram.png)
+![Real-Time Messaging Flow Diagram](Docs/Real-Time%20Messaging%20Flow%20Diagram.png)
 
 ---
 
